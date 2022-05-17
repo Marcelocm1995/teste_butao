@@ -64,7 +64,7 @@ void ScanButtons()
         }
         else
         {
-            BUTTONS[j].State = NO_CLICK;
+            /*do nothing*/
         }
     }
 }
